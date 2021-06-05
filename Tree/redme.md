@@ -1,1 +1,2 @@
 tree
+exercies are from link = https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa2hycEJkYkE5RXdGeHJvQ1Nna2toZWY5OWNTd3xBQ3Jtc0trM1FWekJqZko1LWhXb0tFd2dhSzZCSktsVkM3ZXhhMXhUQ3pTVHB5aWhoNzhxanRrVHJXMnJKdElpMTVibHQzNjIxWVVWRXhHcjJKWFRTNkVXUGdTaDYtYzFtdVJXem5tZmpmMThFcFk0c1R4aG90UQ&q=https%3A%2F%2Fgithub.com%2Fcodebasics%2Fdata-structures-algorithms-python%2Ftree%2Fmaster%2Fdata_structures%2F7_Tree%2F7_tree_exercise.md
